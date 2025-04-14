@@ -13,7 +13,8 @@ prefigure==0.0.10
 bitsandbytes
 muq==0.1.0
 mutagen==1.47.0
-pyopenjtalk==0.4.0
+# I think PyOpenjtalk is not need to run this tool
+# pyopenjtalk==0.4.0
 pykakasi==2.3.0
 jieba==0.42.1
 cn2an==0.5.23
